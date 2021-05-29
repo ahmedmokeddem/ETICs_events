@@ -1,1 +1,2 @@
-# ETICs_events
+# HackTIC
+
